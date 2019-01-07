@@ -1,8 +1,11 @@
 # Bioinfomatics Lab02
 ## Summary
 **object** :  get local, global alignment to measure sequence similarity
+
 **author** : Sujeong Shim (2016025532)
+
 **submit** : 2018.10.21
+
 **environment** : mac os & python3.6
 
 ## Usage
